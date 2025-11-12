@@ -6,7 +6,7 @@ A full-stack analytics project using SQL, Python, and Power BI to extract insigh
 ## Project Goals
 - Understand return behaviour and how it varies by country and product
 - Visualise monthly revenue and purchasing trends
-- Develop a scalanble dashboard for non-technical stakeholders
+- Develop a scalable dashboard for non-technical stakeholders
 - Practice end-to-end data workflow: cleaning, SQL querying, BI visualisation, and storytelling
 
 ---
@@ -24,7 +24,7 @@ A full-stack analytics project using SQL, Python, and Power BI to extract insigh
 |----|-----|
 | Python (Pandas)| Data cleaning, feature engineering |
 | MySQL | Database creation, querying |
-| PowerBI | Dashboard design & visualisation |
+| Power BI | Dashboard design & visualisation |
 | Git & Github | Version control & portfolio sharing |
 
 ---
