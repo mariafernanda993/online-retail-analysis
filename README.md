@@ -11,6 +11,11 @@ A full-stack analytics project using SQL, Python, and Power BI to extract insigh
 
 ---
 
+## Business Impact
+Demonstrated how structured analytics could highlight inefficiencies in customer returns, informing policy decisions like optimising warehouse restocking and prioritising high-value repeat customers.
+
+---
+
 ## Dataset Overview
 - **Source**: Online Retail dataset from Kaggle ([Link](https://www.kaggle.com/datasets/vijayuv/onlineretail/data))
 - **Time Period**: December 2010 to December 2011
